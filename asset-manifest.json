@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfull/static/css/main.073c9b0a.css",
+    "main.js": "/Portfull/static/js/main.d373d0b1.js",
+    "static/js/787.490d6414.chunk.js": "/Portfull/static/js/787.490d6414.chunk.js",
+    "static/media/project1.mp4": "/Portfull/static/media/project1.9f178b4f0bf22ed6cd84.mp4",
+    "index.html": "/Portfull/index.html",
+    "main.073c9b0a.css.map": "/Portfull/static/css/main.073c9b0a.css.map",
+    "main.d373d0b1.js.map": "/Portfull/static/js/main.d373d0b1.js.map",
+    "787.490d6414.chunk.js.map": "/Portfull/static/js/787.490d6414.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d373d0b1.js"
+  ]
+}
